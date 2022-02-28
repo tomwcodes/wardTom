@@ -4285,7 +4285,6 @@ html.no-csstransitions .s-hero__content {
 
 .folio-item__thumb a::after {
     z-index: 1;
-    content: "+";
     font-family: var(--font-2);
     font-weight: 300;
     font-size: 3rem;
